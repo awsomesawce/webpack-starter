@@ -23,5 +23,19 @@
   ],
   "engines": {
     "node": ">=10.13.0"
+  },
+  "dependencies": {
+    "conf": "^10.0.3",
+    "cosmiconfig": "^7.0.1",
+    "fast-glob": "^3.2.7",
+    "immutable": "^4.0.0",
+    "ini": "^2.0.0",
+    "js-yaml": "^4.1.0",
+    "lodash": "^4.17.21",
+    "mori": "^0.3.2",
+    "ramda": "^0.27.1",
+    "rc": "^1.2.8",
+    "underscore": "^1.13.1",
+    "yallist": "^4.0.0"
   }
 }
