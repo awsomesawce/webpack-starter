@@ -25,6 +25,7 @@
     "node": ">=10.13.0"
   },
   "dependencies": {
+    "cacache": "^15.3.0",
     "conf": "^10.0.3",
     "cosmiconfig": "^7.0.1",
     "fast-glob": "^3.2.7",
