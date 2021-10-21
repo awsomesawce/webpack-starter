@@ -1,0 +1,68 @@
+{
+  "fileList": [
+    {
+      "FullName": "C:\\Users\\Carl\\gitstuff\\experimental\\webpack-starter\\newC.js",
+      "Mode": "-a---",
+      "DirectoryName": "C:\\Users\\Carl\\gitstuff\\experimental\\webpack-starter",
+      "LastAccessTime": "2021-10-20T17:16:14.6224767-04:00"
+    },
+    {
+      "FullName": "C:\\Users\\Carl\\gitstuff\\experimental\\webpack-starter\\package.json",
+      "Mode": "-a---",
+      "DirectoryName": "C:\\Users\\Carl\\gitstuff\\experimental\\webpack-starter",
+      "LastAccessTime": "2021-10-20T17:16:14.6224767-04:00"
+    },
+    {
+      "FullName": "C:\\Users\\Carl\\gitstuff\\experimental\\webpack-starter\\README.md",
+      "Mode": "-a---",
+      "DirectoryName": "C:\\Users\\Carl\\gitstuff\\experimental\\webpack-starter",
+      "LastAccessTime": "2021-10-20T17:16:14.6224767-04:00"
+    },
+    {
+      "FullName": "C:\\Users\\Carl\\gitstuff\\experimental\\webpack-starter\\rHist.js",
+      "Mode": "-a---",
+      "DirectoryName": "C:\\Users\\Carl\\gitstuff\\experimental\\webpack-starter",
+      "LastAccessTime": "2021-10-20T17:16:14.6224767-04:00"
+    },
+    {
+      "FullName": "C:\\Users\\Carl\\gitstuff\\experimental\\webpack-starter\\initMods.js",
+      "Mode": "-a---",
+      "DirectoryName": "C:\\Users\\Carl\\gitstuff\\experimental\\webpack-starter",
+      "LastAccessTime": "2021-10-20T17:16:14.6224767-04:00"
+    },
+    {
+      "FullName": "C:\\Users\\Carl\\gitstuff\\experimental\\webpack-starter\\data\\npm_dependencies",
+      "Mode": "d----",
+      "DirectoryName": null,
+      "LastAccessTime": "2021-10-20T17:10:51.845097-04:00"
+    },
+    {
+      "FullName": "C:\\Users\\Carl\\gitstuff\\experimental\\webpack-starter\\data\\npm_search_color.json",
+      "Mode": "-a---",
+      "DirectoryName": "C:\\Users\\Carl\\gitstuff\\experimental\\webpack-starter\\data",
+      "LastAccessTime": "2021-10-20T17:16:14.6224767-04:00"
+    },
+    {
+      "FullName": "C:\\Users\\Carl\\gitstuff\\experimental\\webpack-starter\\MoreNPMHelpers.psm1",
+      "Mode": "-a---",
+      "DirectoryName": "C:\\Users\\Carl\\gitstuff\\experimental\\webpack-starter",
+      "LastAccessTime": "2021-10-20T17:16:14.6224767-04:00"
+    },
+    {
+      "FullName": "C:\\Users\\Carl\\gitstuff\\experimental\\webpack-starter\\.initMods.js.un~",
+      "Mode": "-a---",
+      "DirectoryName": "C:\\Users\\Carl\\gitstuff\\experimental\\webpack-starter",
+      "LastAccessTime": "2021-10-20T17:16:14.6381192-04:00"
+    },
+    {
+      "FullName": "C:\\Users\\Carl\\gitstuff\\experimental\\webpack-starter\\initMods.js~",
+      "Mode": "-a---",
+      "DirectoryName": "C:\\Users\\Carl\\gitstuff\\experimental\\webpack-starter",
+      "LastAccessTime": "2021-10-20T17:16:14.6381192-04:00"
+    }
+  ],
+  "comments": {
+      "fileList": "List of files as created by \"Get-ChildItem | convertto-json\""
+  },
+  "description": "JSON representation of files created by me in this git repo."
+}

@@ -1,0 +1,81 @@
+[
+
+{"name":"color","scope":"unscoped","version":"4.0.1","description":"Color conversion and manipulation with CSS string support","keywords":["color","colour","css"],"date":"2021-08-04T19:06:56.048Z","links":{"npm":"https://www.npmjs.com/package/color","homepage":"https://github.com/Qix-/color#readme","repository":"https://github.com/Qix-/color","bugs":"https://github.com/Qix-/color/issues"},"publisher":{"username":"qix","email":"josh@junon.me"},"maintainers":[{"username":"qix","email":"josh@junon.me"}]}
+
+,
+
+{"name":"chalk","scope":"unscoped","version":"4.1.2","description":"Terminal string styling done right","keywords":["color","colour","colors","terminal","console","cli","string","str","ansi","style","styles","tty","formatting","rgb","256","shell","xterm","log","logging","command-line","text"],"date":"2021-07-30T12:02:52.839Z","links":{"npm":"https://www.npmjs.com/package/chalk","homepage":"https://github.com/chalk/chalk#readme","repository":"https://github.com/chalk/chalk","bugs":"https://github.com/chalk/chalk/issues"},"publisher":{"username":"sindresorhus","email":"sindresorhus@gmail.com"},"maintainers":[{"username":"sindresorhus","email":"sindresorhus@gmail.com"},{"username":"qix","email":"josh@junon.me"}]}
+
+,
+
+{"name":"colors","scope":"unscoped","version":"1.4.0","description":"get colors in your node.js console","keywords":["ansi","terminal","colors"],"date":"2019-09-22T23:46:07.522Z","links":{"npm":"https://www.npmjs.com/package/colors","homepage":"https://github.com/Marak/colors.js","repository":"https://github.com/Marak/colors.js","bugs":"https://github.com/Marak/colors.js/issues"},"author":{"name":"Marak Squires"},"publisher":{"username":"dabh","email":"dabh@alumni.stanford.edu"},"maintainers":[{"username":"dabh","email":"dabh@stanford.edu"},{"username":"marak","email":"marak.squires@gmail.com"}]}
+
+,
+
+{"name":"supports-color","scope":"unscoped","version":"9.0.2","description":"Detect whether a terminal supports color","keywords":["color","colour","colors","terminal","console","cli","ansi","styles","tty","rgb","256","shell","xterm","command-line","support","supports","capability","detect","truecolor","16m"],"date":"2021-07-19T14:01:37.227Z","links":{"npm":"https://www.npmjs.com/package/supports-color","homepage":"https://github.com/chalk/supports-color#readme","repository":"https://github.com/chalk/supports-color","bugs":"https://github.com/chalk/supports-color/issues"},"author":{"name":"Sindre Sorhus","email":"sindresorhus@gmail.com","url":"https://sindresorhus.com","username":"sindresorhus"},"publisher":{"username":"sindresorhus","email":"sindresorhus@gmail.com"},"maintainers":[{"username":"sindresorhus","email":"sindresorhus@gmail.com"},{"username":"qix","email":"josh@junon.me"}]}
+
+,
+
+{"name":"cli-color","scope":"unscoped","version":"2.0.1","description":"Colors, formatting and other tools for the console","keywords":["ansi","color","console","terminal","cli","shell","log","logging","xterm"],"date":"2021-10-15T17:27:54.917Z","links":{"npm":"https://www.npmjs.com/package/cli-color","homepage":"https://github.com/medikoo/cli-color#readme","repository":"https://github.com/medikoo/cli-color","bugs":"https://github.com/medikoo/cli-color/issues"},"author":{"name":"Mariusz Nowak","email":"medyk@medikoo.com","url":"http://www.medikoo.com/"},"publisher":{"username":"medikoo","email":"medikoo+npm@medikoo.com"},"maintainers":[{"username":"medikoo","email":"medikoo+npm@medikoo.com"}]}
+
+,
+
+{"name":"react-color","scope":"unscoped","version":"2.19.3","description":"A Collection of Color Pickers from Sketch, Photoshop, Chrome & more","keywords":["react","color picker","react-component","colorpicker","picker","sketch","chrome","photoshop","material design","popup"],"date":"2020-10-28T05:41:11.999Z","links":{"npm":"https://www.npmjs.com/package/react-color","homepage":"http://casesandberg.github.io/react-color/","repository":"https://github.com/casesandberg/react-color","bugs":"https://github.com/casesandberg/react-color/issues"},"author":{"name":"case","email":"case@casesandberg.com","username":"case"},"publisher":{"username":"case","email":"case@casesandberg.com"},"maintainers":[{"username":"case","email":"case@casesandberg.com"}]}
+
+,
+
+{"name":"postcss-color-hex-alpha","scope":"unscoped","version":"8.0.0","description":"Use 4 & 8 character hex color notation in CSS","keywords":["postcss","css","postcss-plugin","color","hex","alpha","transparent","transparency","4-digit","8-digit","w3c","csswg","specification","spec"],"date":"2021-09-22T14:27:02.742Z","links":{"npm":"https://www.npmjs.com/package/postcss-color-hex-alpha","homepage":"https://github.com/postcss/postcss-color-hex-alpha#readme","repository":"https://github.com/postcss/postcss-color-hex-alpha","bugs":"https://github.com/postcss/postcss-color-hex-alpha/issues"},"author":{"name":"Jonathan Neal","email":"jonathantneal@hotmail.com","username":"jonathantneal"},"publisher":{"username":"jonathantneal","email":"jonathantneal@hotmail.com"},"maintainers":[{"username":"moox","email":"npm@moox.io"},{"username":"semigradsky","email":"semigradskyd@gmail.com"},{"username":"jonathantneal","email":"jonathantneal@hotmail.com"}]}
+
+,
+
+{"name":"color-convert","scope":"unscoped","version":"2.0.1","description":"Plain color conversion functions","keywords":["color","colour","convert","converter","conversion","rgb","hsl","hsv","hwb","cmyk","ansi","ansi16"],"date":"2019-08-19T21:05:36.605Z","links":{"npm":"https://www.npmjs.com/package/color-convert","homepage":"https://github.com/Qix-/color-convert#readme","repository":"https://github.com/Qix-/color-convert","bugs":"https://github.com/Qix-/color-convert/issues"},"author":{"name":"Heather Arthur","email":"fayearthur@gmail.com"},"publisher":{"username":"qix","email":"i.am.qix@gmail.com"},"maintainers":[{"username":"qix","email":"i.am.qix@gmail.com"}]}
+
+,
+
+{"name":"prettyjson","scope":"unscoped","version":"1.2.1","description":"Package for formatting JSON data in a coloured YAML-style, perfect for CLI output","keywords":["json","cli","formatting","colors"],"date":"2016-12-01T16:41:24.347Z","links":{"npm":"https://www.npmjs.com/package/prettyjson","homepage":"http://rafeca.com/prettyjson","repository":"https://github.com/rafeca/prettyjson","bugs":"https://github.com/rafeca/prettyjson/issues"},"author":{"name":"Rafael de Oleza","email":"rafeca@gmail.com","url":"https://github.com/rafeca","username":"rafeca"},"publisher":{"username":"rafeca","email":"rafeca@gmail.com"},"maintainers":[{"username":"rafeca","email":"rafeca@gmail.com"}]}
+
+,
+
+{"name":"color-string","scope":"unscoped","version":"1.6.0","description":"Parser and generator for CSS color strings","keywords":["color","colour","rgb","css"],"date":"2021-07-17T06:30:10.485Z","links":{"npm":"https://www.npmjs.com/package/color-string","homepage":"https://github.com/Qix-/color-string#readme","repository":"https://github.com/Qix-/color-string","bugs":"https://github.com/Qix-/color-string/issues"},"author":{"name":"Heather Arthur","email":"fayearthur@gmail.com"},"publisher":{"username":"qix","email":"josh@junon.me"},"maintainers":[{"username":"qix","email":"josh@junon.me"}]}
+
+,
+
+{"name":"cli-highlight","scope":"unscoped","version":"2.1.11","description":"Syntax highlighting in your terminal","keywords":["terminal","syntax","highlight","color","cli","ansi"],"date":"2021-03-28T18:09:23.896Z","links":{"npm":"https://www.npmjs.com/package/cli-highlight","homepage":"https://github.com/felixfbecker/cli-highlight#readme","repository":"https://github.com/felixfbecker/cli-highlight","bugs":"https://github.com/felixfbecker/cli-highlight/issues"},"author":{"name":"Felix Becker","email":"felix.b@outlook.com","username":"felixfbecker"},"publisher":{"username":"felixfbecker","email":"felix.b@outlook.com"},"maintainers":[{"username":"felixfbecker","email":"felix.b@outlook.com"}]}
+
+,
+
+{"name":"strip-ansi","scope":"unscoped","version":"7.0.1","description":"Strip ANSI escape codes from a string","keywords":["strip","trim","remove","ansi","styles","color","colour","colors","terminal","console","string","tty","escape","formatting","rgb","256","shell","xterm","log","logging","command-line","text"],"date":"2021-09-11T08:50:46.669Z","links":{"npm":"https://www.npmjs.com/package/strip-ansi","homepage":"https://github.com/chalk/strip-ansi#readme","repository":"https://github.com/chalk/strip-ansi","bugs":"https://github.com/chalk/strip-ansi/issues"},"author":{"name":"Sindre Sorhus","email":"sindresorhus@gmail.com","url":"https://sindresorhus.com","username":"sindresorhus"},"publisher":{"username":"sindresorhus","email":"sindresorhus@gmail.com"},"maintainers":[{"username":"sindresorhus","email":"sindresorhus@gmail.com"},{"username":"qix","email":"josh@junon.me"}]}
+
+,
+
+{"name":"ansi-styles","scope":"unscoped","version":"6.1.0","description":"ANSI escape codes for styling strings in the terminal","keywords":["ansi","styles","color","colour","colors","terminal","console","cli","string","tty","escape","formatting","rgb","256","shell","xterm","log","logging","command-line","text"],"date":"2021-04-21T08:50:34.094Z","links":{"npm":"https://www.npmjs.com/package/ansi-styles","homepage":"https://github.com/chalk/ansi-styles#readme","repository":"https://github.com/chalk/ansi-styles","bugs":"https://github.com/chalk/ansi-styles/issues"},"author":{"name":"Sindre Sorhus","email":"sindresorhus@gmail.com","url":"https://sindresorhus.com","username":"sindresorhus"},"publisher":{"username":"sindresorhus","email":"sindresorhus@gmail.com"},"maintainers":[{"username":"sindresorhus","email":"sindresorhus@gmail.com"},{"username":"qix","email":"i.am.qix@gmail.com"}]}
+
+,
+
+{"name":"hex-color-regex","scope":"unscoped","version":"1.1.0","description":"The best regular expression (regex) for matching hex color values from string.","keywords":["color","colors","css","expr","expression","expressions","hex","match","matching","regex","regexp","regexps","regular","web"],"date":"2017-06-03T01:33:26.075Z","links":{"npm":"https://www.npmjs.com/package/hex-color-regex","homepage":"https://github.com/regexps/hex-color-regex#readme","repository":"https://github.com/regexps/hex-color-regex","bugs":"https://github.com/regexps/hex-color-regex/issues"},"author":{"name":"Charlike Mike Reagent","email":"@tunnckoCore","url":"http://www.tunnckocore.tk"},"publisher":{"username":"tunnckocore","email":"mameto_100@mail.bg"},"maintainers":[{"username":"tunnckocore","email":"mameto2011@gmail.com"}]}
+
+,
+
+{"name":"tinycolor2","scope":"unscoped","version":"1.4.2","description":"Fast Color Parsing and Manipulation","keywords":["color","parser","tinycolor"],"date":"2020-09-25T17:52:05.894Z","links":{"npm":"https://www.npmjs.com/package/tinycolor2","homepage":"https://github.com/bgrins/TinyColor#readme","repository":"https://github.com/bgrins/TinyColor","bugs":"https://github.com/bgrins/TinyColor/issues"},"author":{"name":"Brian Grinstead","email":"briangrinstead@gmail.com","url":"http://briangrinstead.com","username":"bgrins"},"publisher":{"username":"bgrins","email":"briangrinstead@gmail.com"},"maintainers":[{"username":"bgrins","email":"briangrinstead@gmail.com"}]}
+
+,
+
+{"name":"pretty-error","scope":"unscoped","version":"3.0.4","description":"See nodejs errors with less clutter","keywords":["pretty","error","exception","debug","error-handling","readable","colorful","prettify","format","human"],"date":"2021-06-08T18:41:33.333Z","links":{"npm":"https://www.npmjs.com/package/pretty-error","homepage":"https://github.com/AriaMinaei/pretty-error#readme","repository":"https://github.com/AriaMinaei/pretty-error","bugs":"https://github.com/AriaMinaei/pretty-error/issues"},"author":{"name":"Aria Minaei"},"publisher":{"username":"ariaminaei","email":"aria.minaei@gmail.com"},"maintainers":[{"username":"ariaminaei","email":"aria.minaei@gmail.com"}]}
+
+,
+
+{"name":"terminal-kit","scope":"unscoped","version":"2.1.8","description":"256 colors, keys and mouse, input field, progress bars, screen buffer (including 32-bit composition and image loading), text buffer, and many more... Whether you just need colors and styles, build a simple interactive command line tool or a complexe termi","keywords":["terminal","console","ansi","cli","xterm","color","256 colors","true color","style","input","input field","mouse","gpm","cursor","menu","spinner","progress bar","screenbuffer","textbuffer","32-bit","composition","image","png","jpeg","gif"],"date":"2021-10-12T09:55:21.162Z","links":{"npm":"https://www.npmjs.com/package/terminal-kit","homepage":"https://github.com/cronvel/terminal-kit#readme","repository":"https://github.com/cronvel/terminal-kit","bugs":"https://github.com/cronvel/terminal-kit/issues"},"author":{"name":"C├⌐dric Ronvel"},"publisher":{"username":"cronvel","email":"cedric.ronvel@gmail.com"},"maintainers":[{"username":"cronvel","email":"cedric.ronvel@gmail.com"}]}
+
+,
+
+{"name":"color-name","scope":"unscoped","version":"1.1.4","description":"A list of color names and its values","keywords":["color-name","color","color-keyword","keyword"],"date":"2018-09-21T10:48:56.546Z","links":{"npm":"https://www.npmjs.com/package/color-name","homepage":"https://github.com/colorjs/color-name","repository":"https://github.com/colorjs/color-name","bugs":"https://github.com/colorjs/color-name/issues"},"author":{"name":"DY","email":"dfcreative@gmail.com"},"publisher":{"username":"dfcreative","email":"df.creative@gmail.com"},"maintainers":[{"username":"dfcreative","email":"df.creative@gmail.com"}]}
+
+,
+
+{"name":"colorette","scope":"unscoped","version":"2.0.16","description":"≡ƒîêEasily set your terminal text color & styles.","keywords":["terminal","styles","color","ansi"],"date":"2021-10-08T06:01:26.703Z","links":{"npm":"https://www.npmjs.com/package/colorette","homepage":"https://github.com/jorgebucaran/colorette#readme","repository":"https://github.com/jorgebucaran/colorette","bugs":"https://github.com/jorgebucaran/colorette/issues"},"author":{"name":"Jorge Bucaran"},"publisher":{"username":"jorgebucaran","email":"mail@jorgebucaran.com"},"maintainers":[{"username":"jorgebucaran","email":"mail@jorgebucaran.com"}]}
+
+,
+
+{"name":"d3-color","scope":"unscoped","version":"3.0.1","description":"Color spaces! RGB, HSL, Cubehelix, Lab and HCL (Lch).","keywords":["d3","d3-module","color","rgb","hsl","lab","hcl","lch","cubehelix"],"date":"2021-06-05T18:22:14.110Z","links":{"npm":"https://www.npmjs.com/package/d3-color","homepage":"https://d3js.org/d3-color/","repository":"https://github.com/d3/d3-color","bugs":"https://github.com/d3/d3-color/issues"},"author":{"name":"Mike Bostock","url":"http://bost.ocks.org/mike"},"publisher":{"username":"mbostock","email":"mike@ocks.org"},"maintainers":[{"username":"mbostock","email":"mike@ocks.org"},{"username":"recifs","email":"fil@rezo.net"}]}
+]
+
