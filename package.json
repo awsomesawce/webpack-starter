@@ -38,5 +38,8 @@
     "rc": "^1.2.8",
     "underscore": "^1.13.1",
     "yallist": "^4.0.0"
+  },
+  "optionalDependencies": {
+    "coffeescript": "^2.6.1"
   }
 }

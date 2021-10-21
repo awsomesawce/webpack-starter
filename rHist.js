@@ -43,22 +43,13 @@ const moduleList = {
                     const util = require('util')
                     const reusify = require('reusify')
                     const escalade = require('escalade')
+const {functions} = require('lodash')
                     
-reusify.toLocaleString()
-constants.X_OK
-constants.EBUSY
-minimist(['one', 'two', 'three'])
-minimist(['--help'])
-minimist.toLocaleString()
-process.argv
-Object.keys(moduleList)
-foreach (let i of moduleList) {
-for (let i of moduleList) {
+functions()
 for (let i of Object.keys(moduleList)) {
 console.log(i)}
 Object.values(moduleList)[0]
 let mVals = Object.values(moduleList)
-mVals[0..3]
 Object.isSealed(moduleList)
 Object.getPrototypeOf(moduleList.argMods)
 let x;
@@ -75,10 +66,6 @@ x
 x.push(2)
 x
 let arr3 = new Int16Array([4, 5, 6])
-arr3.BYTES_PER_ELEMENT
-arr2.length
-arr
-arr.BYTES_PER_ELEMENT
 let arr1 = arr
 let arrs = new Int16Array([arr1, arr2, arr3])
 arrs
@@ -87,33 +74,17 @@ arrs[0]
 arr1
 arr.keys()
 let z = arr.keys()
-z.toString()
-z.next().then(x => {
-z.next()
-z.next()
-mori.get
 mori.vector(1, 2, 3)
 let vec = mori.vector(4, 5, 6)
 mori.toClj(vec)
 mori.toJS
 mori.toJs
 mori.toClj.a.toLocaleString()
-mori
-mori
 let q1 = mori.queue(1, 2)
 q1.inspect()
 let l1 = mori.list(vec)
 l1.inspect()
-vec.inspect()
-l1 = mori.list(1, 2, 3)
-l1.inspect()
-l1.toString()
-let s1 = mori.set('one', 'two', 'three', 'three')
-s1.inspect()
-s1 = mori.set(['one', 'two', 'three'])
-s1.inspect()
 let s2 = I.Set(['one', 'two', 'three'])
-s2
 I.isSet(s2)
 let s3 = new Set([1, 2, 3])
 s3
