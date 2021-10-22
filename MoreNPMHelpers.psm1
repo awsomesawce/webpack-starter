@@ -56,3 +56,31 @@ Attaches result to the $result variable
         return write-error -Category NotImplemented "not Implemented or something went wrong"
     }
 }
+
+function Start-N_ {
+
+<#
+.SYNOPSIS
+Wrapper for n_ repl
+.DESCRIPTION
+Start n_ repl with user-defined history file
+#>
+param(
+    [Parameter(Mandatory = $false)]
+    [string]
+    $histfile
+)
+if (Get-Command n_ -ErrorAction ignore) {
+    if ($histfile) {
+        Write-Verbose "Starting n_ with $histfile"
+        n_ -s --history-file=$histfile
+    }
+    else {
+        $local:default = ".n_myhist.js"
+        Write-Verbose "Starting n_ with $default"
+        n_ -s --history-file="$local:default"
+    }
+}
+else { return Write-Error "n_ executable not detected" }
+
+}
