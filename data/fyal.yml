@@ -1,0 +1,82 @@
+ALLUSERSPROFILE: C:\ProgramData
+APPDATA: C:\Users\Carl\AppData\Roaming
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL: 'true'
+ChocolateyInstall: C:\ProgramData\chocolatey
+ChocolateyLastPathUpdate: '132769765489322292'
+CHROME_CRASHPAD_PIPE_NAME: \\.\pipe\crashpad_8848_ECFGAEYCSMEWTDNL
+CommonProgramFiles: C:\Program Files\Common Files
+CommonProgramFiles(x86): C:\Program Files (x86)\Common Files
+CommonProgramW6432: C:\Program Files\Common Files
+COMPUTERNAME: GWTN141-10
+ComSpec: C:\windows\system32\cmd.exe
+CONDA_BAT: C:\Users\Carl\miniconda3\condabin\conda.bat
+CONDA_EXE: C:\Users\Carl\miniconda3\Scripts\conda.exe
+CONDA_SHLVL: '0'
+DriverData: C:\Windows\System32\Drivers\DriverData
+ELECTRON_RUN_AS_NODE: '1'
+GIT_INSTALL_ROOT: C:\Users\Carl\scoop\apps\git\current
+GOPATH: C:\Users\Carl\go
+GRAALVM_HOME: C:\Users\Carl\scoop\apps\graalvm-jdk11\current
+GRAILS_HOME: C:\Users\Carl\scoop\apps\grails\current
+GROOVY_HOME: C:\Users\Carl\scoop\apps\groovy\current
+HOMEDRIVE: 'C:'
+HOMEPATH: \Users\Carl
+JAVA_HOME: C:\Users\Carl\scoop\apps\graalvm-jdk11\current
+LOCALAPPDATA: C:\Users\Carl\AppData\Local
+LOGONSERVER: \\GWTN141-10
+NGINX_HOME: C:\Users\Carl\scoop\apps\nginx\current
+NUMBER_OF_PROCESSORS: '8'
+OneDrive: C:\Users\Carl\OneDrive
+OneDriveConsumer: C:\Users\Carl\OneDrive
+ORIGINAL_XDG_CURRENT_DESKTOP: undefined
+OS: Windows_NT
+PaketExePath: paket.exe
+Path: >-
+  C:\Users\Carl\miniconda3\condabin;C:\ActiveTcl\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program
+  Files\dotnet\;C:\Program Files\Go\bin;C:\Program Files\Microsoft SQL
+  Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client
+  SDK\ODBC\170\Tools\Binn\;C:\HashiCorp\Vagrant\bin;C:\Program Files
+  (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program
+  Files\PowerShell\7\;C:\Program
+  Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\Carl\scoop\apps\graalvm-jdk11\current\bin;C:\Users\Carl\scoop\apps\mongodb-database-tools\current\bin;C:\Users\Carl\.cargo\bin;C:\Users\Carl\scoop\shims;C:\Users\Carl\AppData\Local\Microsoft\WindowsApps;C:\Users\Carl\AppData\Local\GitHubDesktop\bin;C:\Users\Carl\AppData\Local\Programs\Microsoft
+  VS
+  Code\bin;C:\Users\Carl\.dotnet\tools;C:\Users\Carl\go\bin;C:\Users\Carl\.deno\bin;C:\Users\Carl\AppData\Roaming\npm
+PATHEXT: .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+POWERSHELL_DISTRIBUTION_CHANNEL: MSI:Windows 10 Home
+PROCESSOR_ARCHITECTURE: AMD64
+PROCESSOR_IDENTIFIER: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+PROCESSOR_LEVEL: '6'
+PROCESSOR_REVISION: 8c01
+ProgramData: C:\ProgramData
+ProgramFiles: C:\Program Files
+ProgramFiles(x86): C:\Program Files (x86)
+ProgramW6432: C:\Program Files
+PROMPT: $P$G
+PSModulePath: C:\Users\Carl\scoop\modules;C:\Users\Carl\Documents\WindowsPowerShell\Modules
+PUBLIC: C:\Users\Public
+PYTHONIOENCODING: utf-8
+PYTHONUNBUFFERED: '1'
+SESSIONNAME: Console
+SystemDrive: 'C:'
+SystemRoot: C:\windows
+TEMP: C:\Users\Carl\AppData\Local\Temp
+TMP: C:\Users\Carl\AppData\Local\Temp
+USERDOMAIN: GWTN141-10
+USERDOMAIN_ROAMINGPROFILE: GWTN141-10
+USERNAME: Carl
+USERPROFILE: C:\Users\Carl
+VSCODE_AMD_ENTRYPOINT: vs/workbench/services/extensions/node/extensionHostProcess
+VSCODE_CODE_CACHE_PATH: >-
+  C:\Users\Carl\AppData\Roaming\Code\CachedData\899d46d82c4c95423fb7e10e68eba52050e30ba3
+VSCODE_CWD: C:\Users\Carl\AppData\Local\Programs\Microsoft VS Code
+VSCODE_HANDLES_UNCAUGHT_ERRORS: 'true'
+VSCODE_IPC_HOOK: \\.\pipe\8324fef72d230b6390bc1527febbdd27-1.63.2-main-sock
+VSCODE_IPC_HOOK_EXTHOST: \\.\pipe\vscode-ipc-dd9c323a-e888-47b4-ad7b-34dfd0e59d48-sock
+VSCODE_LOG_NATIVE: 'false'
+VSCODE_LOG_STACK: 'false'
+VSCODE_NLS_CONFIG: '{"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}'
+VSCODE_PID: '8848'
+VSCODE_PIPE_LOGGING: 'true'
+VSCODE_VERBOSE_LOGGING: 'true'
+windir: C:\windows
+ZES_ENABLE_SYSMAN: '1'
