@@ -28,7 +28,7 @@
     "ansi-colors": "^4.1.1",
     "cacache": "^15.3.0",
     "conf": "^10.0.3",
-    "cosmiconfig": "^7.0.1",
+    "cosmiconfig": "^8.1.0",
     "envinfo": "^7.8.1",
     "fast-glob": "^3.2.7",
     "fs-extra": "^10.0.0",
